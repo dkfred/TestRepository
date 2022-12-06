@@ -1,6 +1,4 @@
 # Ceci est un fichier README
-<<<<<<< HEAD
-feature2
-=======
-"feature1"
->>>>>>> Master
+feature 1
+feature 2
+feature2.1
